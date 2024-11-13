@@ -4,7 +4,7 @@ import { HomeModernIcon, UserGroupIcon, AcademicCapIcon } from "@heroicons/react
 import { motion } from "framer-motion";
 import Benefit from "./Benefit";
 import ActionButton from "@/shared/ActionButton";
-import BenefitsPageGraphic from "@/assets/benefitspageGraphic.png";
+import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 
 const benefit:Array<BenefitType> = [
   {
